@@ -1,0 +1,65 @@
+.stylinglogo{
+    width: 160px;
+    height: 60px;
+    padding: 2px;
+}
+#go{
+    background-color: white;
+    color:black;
+    padding: 5px 15px;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border: 0px;
+}
+#go:hover{
+    background-color:blue;
+    color:black;
+    border: 0px;
+}
+.bgimg{
+    background-color: black;
+    background-size: cover;
+    height: 100vh;
+}
+.bgcardcarousel{
+    background-color: black;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin: 15px;
+}
+.Ramdanbg{
+    background-color: aqua;
+    height: 30vh;
+}
+.images{
+    height: 100px;
+    width: 100px;
+}
+.Ramdancard{
+    background-color: white;
+    width: 150px;
+    border-radius: 15px;
+    padding: 5px ;
+    height: 150px;
+    text-align:center;
+    margin: 15px;
+}
+.Ramdanheading{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.Ramdancard:hover{
+    background-color:red;
+    color:black;
+    padding: 5px 15px;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border: 0px;
+}
+
+
+
+
